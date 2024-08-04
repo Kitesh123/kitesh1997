@@ -398,3 +398,4 @@ echo "Transferring tokens..."
 npx hardhat run scripts/transfer.js --network swisstronik
 echo "Tokens transferred."
 echo "Done! Subscribe: https://t.me/GaCryptOfficial"
+echo "Done! Subscribe: https://t.me/GaCryptOfficial"
